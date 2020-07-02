@@ -1,0 +1,44 @@
+[
+  {
+    "model": "maratona.maratona",
+    "pk": 1,
+    "fields": {
+      "titulo": "Full Cycle e Estudo de caso"
+    }
+  },
+  {
+    "model": "maratona.maratona",
+    "pk": 2,
+    "fields": {
+      "titulo": "Microsserviço de assinaturas com RabbitMQ e Golang Buffalo"
+    }
+  },
+  {
+    "model": "maratona.maratona",
+    "pk": 3,
+    "fields": {
+      "titulo": "Serverless framework e processamento de pagamentos"
+    }
+  },
+  {
+    "model": "maratona.maratona",
+    "pk": 4,
+    "fields": {
+      "titulo": "Multi-tenancy applications com Django"
+    }
+  },
+  {
+    "model": "maratona.maratona",
+    "pk": 5,
+    "fields": {
+      "titulo": "Ecommerce com Nest.js, Loopback e ElasticSearch"
+    }
+  },
+  {
+    "model": "maratona.maratona",
+    "pk": 6,
+    "fields": {
+      "titulo": "Microsserviços em produção com Docker e Kubernetes"
+    }
+  }
+]
